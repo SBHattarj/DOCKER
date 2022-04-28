@@ -1,0 +1,6 @@
+[submodule "pokemon-emulator"]
+	path = pokemon-emulator
+	url = git@github.com:Subhattarch/pokemon-emulator.git
+[submodule "pokemon-insurgence"]
+	path = pokemon-insurgence
+	url = git@github.com:Subhattarch/pokemon-insurgence
